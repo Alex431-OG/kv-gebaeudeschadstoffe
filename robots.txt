@@ -1,3 +1,0 @@
-# VORSCHAU-MODUS – vor Livegang ersetzen
-User-agent: *
-Disallow: /
